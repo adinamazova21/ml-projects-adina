@@ -1,6 +1,6 @@
 # Machine Learning Portfolio – Adina Mazova
 
-This repository contains a collection of machine learning and data analysis projects completed as part of academic coursework. Each notebook explores a different method or algorithm, using real or synthetic datasets.
+This repository contains a collection of machine learning and data analysis projects completed as part of academic coursework. Each notebook explores a different method or algorithm.
 
 ## 📂 Projects Included
 
